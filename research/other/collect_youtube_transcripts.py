@@ -6,7 +6,7 @@ Usage:
     python collect_youtube_transcripts.py
 
 Writes each transcript to research/youtube-transcripts/<slug>.md, replacing
-the "NOT YET COLLECTED" placeholder file. Run this from a normal machine —
+the "COLLECTED" placeholder file. Run this from a normal machine —
 it needs direct internet access to youtube.com, which a locked-down sandbox
 may block.
 """
