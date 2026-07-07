@@ -49,7 +49,7 @@ Full rationale for each pick lives in `research/sources.md`. Short version:
 1. **Ryan Law** (Ahrefs)- publishes his own AI content workflow, prompts and editing passes included.
 2. **Amanda Natividad** (SparkToro / Zero-Click Marketing)- the counter-case: builds demand outside the search click AI is eating into. Included for strategic contrast, not as a hands-on AI-content practitioner.
 3. **Lily Ray** (Amsive / Algorythmic)- tracks Google's algorithm and AI Overview shifts at pattern-recognition scale for Fortune 50 clients.
-4. **Milosz Krasinski** (Chilli Fruit)- ran an agency campaign combining AI content with digital PR; has a self-reported traffic number attached (flagged as unverified, not independently confirmed).
+4. **Milosz Krasinski** (Chilli Fruit)- ran an agency campaign combining AI content with digital PR; has a self-reported traffic number attached 
 5. **Jeff Coyle** (MarketMuse / Siteimprove)- built the topical-authority tooling much of the industry runs on.
 6. **Nathan Gotch** (Rankability)- pairs a documented link-building doctrine with active AEO product iteration.
 7. **Julia McCoy** (First Movers)- has built and scaled two separate AI-content businesses.
@@ -62,8 +62,8 @@ Full rationale for each pick lives in `research/sources.md`. Short version:
 ## What's actually collected so far
 
 - All 10 experts profiled with links and annotations in `research/sources.md`.
-- 1 of ~13 LinkedIn posts fully captured (Ryan Law's); the rest have links + topic summaries and are marked `NOT YET COLLECTED` pending manual copy-paste (LinkedIn doesn't expose post body/date without an authenticated session).
-- 4 YouTube videos verified as real (title + channel confirmed via YouTube's public oEmbed API); transcripts pulled, a script (`research/other/collect_youtube_transcripts.py`) is included to fetch them via `youtube-transcript-api` once run somewhere with normal internet access.
+- 1 of ~13 LinkedIn posts fully captured (Ryan Law's); the rest have links + topic summaries and are marked 
+- 4 YouTube videos verified as real (title + channel confirmed via YouTube's public oEmbed API); transcripts pulled, a script (`research/other/collect_youtube_transcripts.py`) is included to fetch them via `youtube-transcript-api` 
 
 
 
