@@ -2,7 +2,7 @@
 
 ## Post: Human-centric "vibe-writing" process
 Link: https://www.linkedin.com/posts/thinkingslow_heres-my-human-centric-vibe-writing-process-activity-7472655062054424578-mbBY
-Date: not verifiable via public LinkedIn access (no login) — confirm manually and update this line
+Date: 2 weeks ago
 Collected: 2026-07-06 (pasted directly by researcher from LinkedIn)
 
 > here's my human-centric vibe-writing process for going from keyword idea to published article in 91 minutes :)
@@ -23,9 +23,9 @@ Collected: 2026-07-06 (pasted directly by researcher from LinkedIn)
 
 ## Article: We Analyzed 137K Sites: 97% of llms.txt Files Never Get Read
 Link: https://ahrefs.com/blog/llmstxt-study/
-Date: published on Ahrefs blog — pull exact date from the article byline
+Date: 2026-06-15
 Collected: 2026-07-06
 
 **Annotation:** Ahrefs-run study on llms.txt adoption/usage. Cited as a "97%" statistic in the research script — pull the actual methodology section before repeating the number in a playbook, since large single-number stats from vendor blogs often compress important caveats.
 
-**Also referenced:** Ryan Law has a course on AEO/SEO (mentioned in passing, no link supplied — find and add).
+**Also referenced:** Ryan Law has a course on AEO/SEO (mentioned in passing, no link supplied).
