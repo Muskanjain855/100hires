@@ -1,8 +1,11 @@
 # Lily Ray: VP of SEO & AI Search, Amsive / Founder, Algorythmic
 
 ## Post: GEO hack
+
 Link: https://www.linkedin.com/posts/lily-ray-44755615_for-the-last-couple-of-years-the-easiest-activity-7473139503277215746-4Dvf
+
 Date: 2 weeks ago
+
 Full text: COLLECTED
 
 For the last couple of years, the easiest GEO hack in the book was to publish a "best [category]" listicle and rank yourself #1. It worked to influence AI answers, and in many cases, it still does.
