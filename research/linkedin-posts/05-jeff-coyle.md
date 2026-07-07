@@ -1,9 +1,22 @@
-# Jeff Coyle — Co-founder & Chief Strategy Officer, MarketMuse (acquired by Siteimprove)
+# Jeff Coyle: Co-founder & Chief Strategy Officer, MarketMuse (acquired by Siteimprove)
 
 ## Post: Named to Search Power List: 100 Most Influential in SEO (USA)
+
 Link: https://www.linkedin.com/posts/jeffcoyle_amazing-news-im-honored-to-be-included-activity-7475241532858642434-6HX1
-Date: not verifiable via public access
-Full text: NOT YET COLLECTED — paste post body here.
+
+Date: 1 week ago
+
+Full text: COLLECTED 
+
+Amazing news.
+
+I’m honored to be included in the inaugural Search Power List: 100 Most Influential in SEO in the USA.
+
+Search has been my professional world for more than 27 years. From technical SEO and information retrieval to content strategy, semantic search, AI search, and everything happening now with the agentic web, I’ve been lucky to work alongside people who keep pushing this industry forward.
+
+Search has always been full of brilliant, curious, inventive people who share ideas, challenge assumptions, and make the community stronger.  Huge congratulations to everyone featured. I’m grateful to be included with so many close friends and visionaries. 
+
+You can view the full list here: https://lnkd.in/eYfpKeMf
 
 ## Webinar: Dale Bertrand (Fire&Spark) x Jeff Coyle (Siteimprove) — proving AEO/GEO value
 Link: https://event.on24.com/wcc/r/5351914/DAD88572DAA8634DEFAB447D87FA0AFA?partnerref=organic_social
