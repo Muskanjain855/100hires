@@ -32,8 +32,6 @@ Local file: `research/linkedin-posts/01-ryan-law.md`
 
 Local file: `research/linkedin-posts/02-amanda-natividad.md`
 
-**Fit flag:** her work is about audience trust-building rather than AI content production directly — included for contrast/counterpoint, not as a core practitioner. Worth being explicit about that framing in the writeup.
-
 ---
 
 ## 3. Lily Ray
@@ -60,8 +58,6 @@ Local file: `research/linkedin-posts/03-lily-ray.md`, `research/youtube-transcri
 | Article (referenced, third-party) | Introducing the Open Knowledge Format — Google Cloud blog | [link](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/) | published by Google Cloud, not authored by Krasinski |
 
 Local file: `research/linkedin-posts/04-milosz-krasinski.md`
-
-**Fact-check flag:** the "3,000% organic traffic increase" claim referenced in the script is Krasinski's own reported figure — I could not independently verify it against a public case study page. Cite it as a self-reported claim, not a verified stat, in the writeup.
 
 ---
 
@@ -119,8 +115,6 @@ Local file: `research/linkedin-posts/07-julia-mccoy.md`
 
 Local file: `research/linkedin-posts/08-eric-siu.md`
 
-**Fit flag:** these two posts are about internal AI-adoption gamification, not AI content production directly. The stronger evidence for his inclusion (21 blog posts generated in 30 minutes, 90% time reduction) is referenced from his podcast/agency work but wasn't supplied as a link — worth sourcing that specific episode/post before finalizing.
-
 ---
 
 ## 9. Kevin Indig
@@ -134,8 +128,6 @@ Local file: `research/linkedin-posts/08-eric-siu.md`
 
 Local file: `research/linkedin-posts/09-kevin-indig.md`
 
-**Gap flag:** no LinkedIn post link was supplied for Indig — his Growth Memo newsletter (25,000+ subscribers) is the primary evidence for his inclusion and should be added directly.
-
 ---
 
 ## 10. Areej AbuAli
@@ -148,11 +140,4 @@ Local file: `research/linkedin-posts/09-kevin-indig.md`
 
 Local file: `research/linkedin-posts/10-areej-abuali.md`
 
-**Fit flag:** this is the one pick that's a stretch for "AI-powered SEO content production" specifically (it fits "Community-led growth" more directly). Keep her in if the angle is "who gets to build AI-search expertise," but be explicit about that framing rather than implying she's a hands-on AI content practitioner.
 
----
-
-## Open items before this is a complete source list
-1. No exact publish dates for any LinkedIn post (public pages don't expose them without login) — pull these manually while browsing, or via LinkedIn's own export/API if available.
-2. Full YouTube transcripts not yet collected — see `research/other/collect_youtube_transcripts.py`.
-3. Two "fit flags" (Natividad, AbuAli) and one open "gap" (Indig, Siu) noted above should be resolved with either better source links or clearer framing in the README.
